@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Praktikum_9</string>
+    <string name="name">Nama</string>
+    <string name="email">Email</string>
+    <string name="phone_number">Nomer Telp</string>
+    <string name="age">Umur</string>
+    <string name="dark_theme">Tema Gelap</string>
+    <string name="yes">Ya</string>
+    <string name="no">Tidak</string>
+    <string name="save">SAVE</string>
+    <string name="default_phone">Nama</string>
+    <string name="tv_theme">Email</string>
+    <string name="default_theme">Theme Mode</string>
+    <string name="setting">Setting</string>
+</resources>
